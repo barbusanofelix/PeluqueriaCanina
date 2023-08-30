@@ -175,7 +175,7 @@
             <Component class="javax.swing.JButton" name="btnEliminar">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="W:\JAVA_PROYECTOS\PeluqueriaCanina\src\resourses\img\Eliminar.png"/>
+                  <Image iconType="3" name="/img/Eliminar.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Eliminar"/>
               </Properties>
@@ -186,7 +186,7 @@
             <Component class="javax.swing.JButton" name="btnEditar">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="W:\JAVA_PROYECTOS\PeluqueriaCanina\src\resourses\img\editar.png"/>
+                  <Image iconType="3" name="/img/editar.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Editar"/>
               </Properties>

@@ -84,7 +84,7 @@ public class Principal extends javax.swing.JFrame {
                 .addGap(34, 34, 34))
         );
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("W:\\JAVA_PROYECTOS\\PeluqueriaCanina\\src\\Peluqueria.jpg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Peluqueria.jpg"))); // NOI18N
 
         jLabel3.setText("Activar XAMPP con Apache y MySql pues en caso contrario NO hay error y no abre las ventanas de Cargar Datos y Ver Datos");
 
